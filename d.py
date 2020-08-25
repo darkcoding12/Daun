@@ -233,7 +233,7 @@ def menu2():
         spam_friends()
     if num_men == "3":
         spam_friendsO()
-    if num_men == "5":
+    if num_men == "4":
         main()
     if num_men == "0":
         os.system(e)
